@@ -1,0 +1,22 @@
+.logo {
+  height: 100px;
+}
+
+.creditos {
+  font-size: 15px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.hover-line {
+  stroke: #6F257F;
+  stroke-width: 2px;
+  stroke-dasharray: 3,3;
+}
+
+.opciones {
+  margin-top: 10px;
+}
